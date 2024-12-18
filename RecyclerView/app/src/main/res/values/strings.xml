@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+    <string name="anh1">anh1</string>
+    <string name="user_1">User 1</string>
 </resources>
